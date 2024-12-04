@@ -1,0 +1,1 @@
+# ltspice-adc-input
